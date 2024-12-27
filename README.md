@@ -1,4 +1,4 @@
-# HFT Simulator
+# High Frequency Trading Backtesing Simulator
 
 ## System Architecture
 
