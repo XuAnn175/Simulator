@@ -1,4 +1,4 @@
-# Simulator
+# HFT Simulator
 
 ## System Architecture
 
